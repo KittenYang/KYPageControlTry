@@ -23,3 +23,6 @@ if ([pageControlView respondsToSelector:@selector(moveThePage:)]) {
 }
 
 ```
+
+
+Blog:[Click here](http://kittenyang.com/pagecontrol/)
